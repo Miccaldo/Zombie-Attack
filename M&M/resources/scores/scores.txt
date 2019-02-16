@@ -1,0 +1,5 @@
+Janusz 40
+Stefan 45
+Borys 225
+Sandro 1000
+Kowalski 320
